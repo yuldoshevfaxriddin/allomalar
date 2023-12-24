@@ -1,0 +1,69 @@
+{
+  "easyquestions": [
+    {
+      "question": "C++ tilidagi shartli o'tish operatori ...  hisoblanadi.?",
+      "answer1": "if",
+      "answer2": "while",
+      "answer3": "for",
+      "answer4": "get",
+      "correct": "if"
+    },
+    {
+      "question": "C ++ tanlash operatori ...",
+      "answer1": "switch ... case",
+      "answer2": "while",
+      "answer3": "cnt",
+      "answer4": "if else",
+      "correct": "switch ... case"
+    },
+    {
+      "question": "C++ tilidagi  shartsiz o'tish operatori ...  hisoblanadi.",
+      "answer1": "Goto",
+      "answer2": "while",
+      "answer3": "for.",
+      "answer4": "do while",
+      "correct": "Goto"
+    },
+    {
+      "question": " Sikl operatori turlarining to'g'ri sonini ko'rsating?",
+      "answer1": "3",
+      "answer2": "2",
+      "answer3": "4",
+      "answer4": "5",
+      "correct": "3"
+    },
+    {
+      "question": "Destruktorga nechta parametr jo’natish mumkin?",
+      "answer1": "Destruktorga parametr jo’natish mumkin emas",
+      "answer2": "cheksiz",
+      "answer3": "2",
+      "answer4": "1.",
+      "correct": "Destruktorga parametr jo’natish mumkin emas"
+    },
+    {
+      "question": "Noto'g'ri berilgan ifodani aniqlang ?",
+      "answer1": "A!%5",
+      "answer2": "A=5",
+      "answer3": "A==5",
+      "answer4": "A!=5",
+      "correct": "A!%5"
+    },
+    {
+      "question": "Funksiya parametrlariga nechta argument berish mumkin?",
+      "answer1": "Cheklanmagan miqdorda",
+      "answer2": "5",
+      "answer3": "10",
+      "answer4": "mumkin emas",
+      "correct": "Cheklanmagan miqdorda"
+    },
+    {
+      "question": "C++ da scanf operatori uchun qaysi kutubxona ishlatiladi?",
+      "answer1": "conio.h",
+      "answer2": "stdio.h",
+      "answer3": "stdlib.h",
+      "answer4": "iomanip",
+      "correct": "stdio.h"
+    }
+    
+  ]
+}

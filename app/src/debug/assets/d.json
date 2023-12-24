@@ -1,0 +1,36 @@
+{
+  "easyquestions": [
+    {
+      "question": "OOP nima ?",
+      "answer1": "Meroshorlik",
+      "answer2": "Maxsus kutubxona",
+      "answer3": "Obyektga yo'naltirilgan dasturlash",
+      "answer4": "Dasturlash tili",
+      "correct": "Obyektga yo'naltirilgan dasturlash"
+    },
+    {
+      "question": "2+2 ?",
+      "answer1": "33",
+      "answer2": "21",
+      "answer3": "4",
+      "answer4": "0",
+      "correct": "4"
+    },
+    {
+      "question": "public - qanday xususiyat ?",
+      "answer1": "Ochiq",
+      "answer2": "Ximoyalangan",
+      "answer3": "Ruxsat bilan amalga oshiriladigan",
+      "answer4": "Ruxsat bolmagan",
+      "correct": "Ochiq"
+    },
+    {
+      "question": "sinus funksiyasiga murojat",
+      "answer1": "sin.a",
+      "answer2": "sin(a)",
+      "answer3": "a.sin",
+      "answer4": "sina",
+      "correct": "sin(a)"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "difficultquestions": [
+    {
+      "question": "Difficult questions A",
+      "answer1": "A",
+      "answer2": "B",
+      "answer3": "C",
+      "answer4": "D",
+      "correct": "A"
+    },
+    {
+      "question": "Difficult questions B",
+      "answer1": "A",
+      "answer2": "B",
+      "answer3": "C",
+      "answer4": "D",
+      "correct": "B"
+    },
+    {
+      "question": "Difficult questions C",
+      "answer1": "A",
+      "answer2": "B",
+      "answer3": "C",
+      "answer4": "D",
+      "correct": "C"
+    },
+    {
+      "question": "Difficult questions D",
+      "answer1": "A",
+      "answer2": "B",
+      "answer3": "C",
+      "answer4": "D",
+      "correct": "D"
+    },
+    {
+      "question": "Difficult questions A",
+      "answer1": "A",
+      "answer2": "B",
+      "answer3": "C",
+      "answer4": "D",
+      "correct": "A"
+    },
+    {
+      "question": "Difficult questions B",
+      "answer1": "A",
+      "answer2": "B",
+      "answer3": "C",
+      "answer4": "D",
+      "correct": "B"
+    },
+    {
+      "question": "Difficult questions C",
+      "answer1": "A",
+      "answer2": "B",
+      "answer3": "C",
+      "answer4": "D",
+      "correct": "C"
+    },
+    {
+      "question": "Difficult questions D",
+      "answer1": "A",
+      "answer2": "B",
+      "answer3": "C",
+      "answer4": "D",
+      "correct": "D"
+    }
+  ]
+}
